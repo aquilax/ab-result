@@ -1,19 +1,3 @@
-# ab-result
-
-[![Build Status](https://travis-ci.org/aquilax/ab-result.svg?branch=master)](https://travis-ci.org/aquilax/ab-result)
-[![Try corenlp on RunKit](https://badge.runkitcdn.com/corenlp.svg](https://npm.runkit.com/corenlp)
-
-Apache Benchmark result parser
-
-## Installation
-
-```bash
-npm install --save ab-result
-```
-
-## Usage
-
-```js
 const abResult = require('ab-result');
 
 const data  = `This is ApacheBench, Version 2.3 <$Revision: 1706008 $>
@@ -50,4 +34,3 @@ Total:          0    0   0.0      0       0`;
 
 const result = abResult(data);
 console.log(result);
-```
