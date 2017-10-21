@@ -1,6 +1,6 @@
 const abResult = require('ab-result');
 
-const data  = `This is ApacheBench, Version 2.3 <$Revision: 1706008 $>
+const data = `This is ApacheBench, Version 2.3 <$Revision: 1706008 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
 Licensed to The Apache Software Foundation, http://www.apache.org/
 
