@@ -47,6 +47,6 @@ Processing:     0    0   0.0      0       0
 Waiting:        0    0   0.0      0       0
 Total:          0    0   0.0      0       0`;
 
-const result = abParse.parse(data);
+const result = abResult(data);
 console.log(result);
 ```
