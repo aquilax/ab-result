@@ -115,10 +115,18 @@ Total:          0    0   0.0      0       0`,
                         transferRate: 0,
                     },
                     time: {
-                        connect: {},
-                        processing: {},
-                        waiting: {},
-                        total: {},
+                        connect: {
+                            min: 0, mean: 0, sd: 0, median: 0, max: 0,
+                        },
+                        processing: {
+                            min: 0, mean: 0, sd: 0, median: 0, max: 0,
+                        },
+                        waiting: {
+                            min: 0, mean: 0, sd: 0, median: 0, max: 0,
+                        },
+                        total: {
+                            min: 0, mean: 0, sd: 0, median: 0, max: 0,
+                        },
                     },
                 },
             },
