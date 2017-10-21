@@ -1,0 +1,20 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[node_modules/**]
+charset = disabled
+end_of_line = disabled
+indent_size = disabled
+indent_style = disabled
+insert_final_newline = disabled
+trim_trailing_whitespace = disabled
+
+[{package.json,.travis.yml}]
+indent_size = 2
