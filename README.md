@@ -1,6 +1,7 @@
 # ab-result
 
-[![Build Status](https://travis-ci.org/aquilax/ab-result.svg?branch=master)](https://travis-ci.org/aquilax/ab-result) [![Try ab-result on RunKit](https://badge.runkitcdn.com/ab-result.svg](https://npm.runkit.com/ab-result)
+[![Build Status](https://travis-ci.org/aquilax/ab-result.svg?branch=master)](https://travis-ci.org/aquilax/ab-result)
+[![Try ab-result on RunKit](https://badge.runkitcdn.com/ab-result.svg](https://npm.runkit.com/ab-result)
 
 Apache Benchmark result parser
 
